@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Rasheed+|+Edge 👋;" />
+<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Rasheed+|+Edge 👋;" />
+</h1>
 **Full-Stack Web Developer | JavaScript Enthusiast | UI/UX Friendly**
 
 I'm a passionate full-stack developer who loves turning ideas into real-life applications that solve problems and look great doing it. Whether it's frontend magic with React or backend logic with Node.js and Express, I'm all about building performant and scalable web solutions.
