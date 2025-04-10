@@ -1,6 +1,8 @@
-<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Rasheed+|+Edge 👋;" />
-</h1>
-**Full-Stack Web Developer | JavaScript Enthusiast | UI/UX Friendly**
+<!-- <h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Rasheed+|+Edge 👋;" />
+</h1> -->
+# Hi there, I'm Rasheed | Edge 👋  
+
+### Full-Stack Web Developer | JavaScript Enthusiast | UI/UX Friendly**
 
 I'm a passionate full-stack developer who loves turning ideas into real-life applications that solve problems and look great doing it. Whether it's frontend magic with React or backend logic with Node.js and Express, I'm all about building performant and scalable web solutions.
 
@@ -22,9 +24,9 @@ Git, GitHub, Figma
 - Design interfaces using Figma
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:youremail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=firefox)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rasheed-shodiya)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:shodiyarasheed100@gmail.com)  
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=firefox)](https://yourportfolio.com) -->
 
 ---
 
