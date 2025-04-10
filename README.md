@@ -2,7 +2,7 @@
 </h1> -->
 # Hi there, I'm Rasheed | Edge 👋  
 
-### Full-Stack Web Developer | JavaScript Enthusiast | UI/UX Friendly**
+### Full-Stack Web Developer | JavaScript Enthusiast | UI/UX Friendly
 
 I'm a passionate full-stack developer who loves turning ideas into real-life applications that solve problems and look great doing it. Whether it's frontend magic with React or backend logic with Node.js and Express, I'm all about building performant and scalable web solutions.
 
